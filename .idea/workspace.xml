@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a33215c8-f0fc-4862-959a-94f188d068c4" name="Changes" comment="3.3. Фиксация изменений на github [#243564]">
+      <change afterPath="$PROJECT_DIR$/job4j_elementary/src/main/java/ru/job4j/Info.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/job4j_elementary/src/main/java/ru/job4j/Multiple.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/job4j_elementary/src/main/java/ru/job4j/Studentinfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
